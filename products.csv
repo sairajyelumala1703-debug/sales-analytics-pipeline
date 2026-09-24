@@ -1,0 +1,9 @@
+product_id,product_name,category,unit_price
+P001,Wireless Mouse,Accessories,799
+P002,Mechanical Keyboard,Accessories,2499
+P003,USB-C Hub,Accessories,1299
+P004,Laptop Stand,Office,1099
+P005,Webcam HD,Electronics,1999
+P006,Bluetooth Speaker,Electronics,1599
+P007,"Monitor 24""",Electronics,8999
+P008,Desk Lamp,Office,699
